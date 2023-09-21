@@ -4,9 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katherinafed&label=Profile%20views&color=0e75b6&style=flat" alt="katherinafed" /> </p>
 
-- 📫 How to reach me **fedoseeva.ektr@gmail.com**
+- 📫 How to reach me:
+  - **Gmail:** fedoseeva.ektr@gmail.com
+  - **Telegram:** [Katja Fed](https://t.me/katja_fed)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/ekaterina-fedoseeva-739514261/](https://www.linkedin.com/in/ekaterina-fedoseeva-739514261/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ekaterina-fedoseeva-739514261/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
