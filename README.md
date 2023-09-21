@@ -6,7 +6,7 @@
 
 - 📫 How to reach me:
   - **Gmail:** fedoseeva.ektr@gmail.com
-  - **Telegram:** [Katja Fed](https://t.me/katja_fed)
+  - **Telegram:** [Ekaterina F.](https://t.me/katja_fed)
 
 - 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ekaterina-fedoseeva-739514261/)
 
