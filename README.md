@@ -8,7 +8,7 @@
   - **Gmail:** fedoseeva.ektr@gmail.com
   - **Telegram:** [Ekaterina F.](https://t.me/katja_fed)
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/ekaterina-fedoseeva-739514261/)
+- 🔗 Know about my experiences - [download CV](https://drive.google.com/file/d/1YTExIMy9QyEhElXq49v_HJ1KYlFvVCJr/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
