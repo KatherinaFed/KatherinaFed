@@ -7,6 +7,8 @@
 - 📫 How to reach me:
   - **Gmail:** fedoseeva.ektr@gmail.com
   - **Telegram:** [Ekaterina F.](https://t.me/katja_fed)
+ 
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://portfolio-katja-f69o1rwsp-katherinafed.vercel.app/)
 
 - 🔗 Know about my experiences - [download CV](https://drive.google.com/file/d/1YTExIMy9QyEhElXq49v_HJ1KYlFvVCJr/view?usp=drive_link)
 
