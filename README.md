@@ -10,7 +10,7 @@
 
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://mail.google.com/mail/u/0/?zx=j3w9bmdlxelu#inbox/FMfcgzGtxSqJZSkhxxpJQvfsfwCvJgbh?compose=GTvVlcSBmWtjFdDsMdrhcdwMZJvJvtCJnLqBqgTHvjdbzmVFWMwNxSvRNfrVjDDkGftLqgVQGlhJF" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="ekaterina fedoseeva"  />
+<a href="mailto:fedoseeva.ektr@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fedoseeva.ektr@gmail.com" alt="ekaterina fedoseeva"  />
 <a href="https://www.linkedin.com/in/ekaterina-fedoseeva-739514261/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="katherinafed" />
 <a href="https://t.me/katja_fed" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="katherinafed" />
 </p>
