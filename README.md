@@ -6,7 +6,7 @@
  
 ### 👩🏻‍💻 Portfolio: [Ekaterina Fedoseeva](https://portfolio-katja-f69o1rwsp-katherinafed.vercel.app/)
 
-### 📜 CV - [download CV](https://drive.google.com/file/d/1YTExIMy9QyEhElXq49v_HJ1KYlFvVCJr/view?usp=drive_link)
+### 📄 CV - [download CV](https://drive.google.com/file/d/1YTExIMy9QyEhElXq49v_HJ1KYlFvVCJr/view?usp=drive_link)
 
 ### 🤝 Connect with me:
 <p align="left">
