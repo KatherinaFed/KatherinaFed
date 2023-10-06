@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katherinafed&label=Profile%20views&color=0e75b6&style=flat" alt="katherinafed" /> </p>
  
-### 👩🏻‍💻 Portfolio: [Ekaterina Fedoseeva](https://portfolio-katja-f69o1rwsp-katherinafed.vercel.app/)
+### 👩🏻‍💻 Portfolio: [Ekaterina Fedoseeva](https://portfolio-katja.vercel.app/)
 
 ### 📄 CV - [download CV](https://drive.google.com/file/d/1-3g5mwvFN6W-cBhtLbBe3pDkF0j2v9An/view?usp=drive_link)
 
