@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Katja!</h1>
-<h3 align="center">Frontend developer from Berlin :nerd_face:</h3>
+<h3 align="center">Frontend developer from Munich :nerd_face:</h3>
 <img align="right" alt="Coding" width="300" src='https://steamuserimages-a.akamaihd.net/ugc/1631947648964785474/81CBA15178466DD47195A239232202E78987B714/?imw=637&imh=358&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true' />
  
 ### 👩🏻‍💻 Portfolio: [Ekaterina Fedoseeva](https://portfolio-katja.vercel.app/)
